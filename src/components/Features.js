@@ -5,7 +5,7 @@ class Features extends React.Component {
     return (
       <div>
   			<article id="first" className="container box style1 right">
-  				<a href="#" className="image fit"><img src="images/pic01.jpg" alt="" /></a>
+  				<a href="#top" className="image fit"><img src="images/pic01.jpg" alt="" /></a>
   				<div className="inner">
   					<header>
   						<h2>Lorem ipsum<br />
@@ -16,7 +16,7 @@ class Features extends React.Component {
   			</article>
 
   			<article className="container box style1 left">
-  				<a href="#" className="image fit"><img src="images/pic02.jpg" alt="" /></a>
+  				<a href="#top" className="image fit"><img src="images/pic02.jpg" alt="" /></a>
   				<div className="inner">
   					<header>
   						<h2>Mollis posuere<br />
